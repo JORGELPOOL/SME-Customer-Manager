@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SME Customer Manager (Flutter, backend-connected)
 
 A customer, sales, debt, and inventory manager for small businesses. This version talks to the
@@ -95,3 +96,7 @@ lib/
   different architecture — happy to talk through what that would take if it comes up.
 - **"Estimated profit"** (in Reports) is still a simplified figure: revenue collected minus
   expenses recorded, with no accounting for unsold inventory value.
+=======
+# SME-Customer-Manager
+SME Customer Manager is a business management application designed to help small and medium-sized businesses manage customer records and outstanding payments efficiently
+>>>>>>> d3a2967f0bb142fb7b6627e86d62e6a90837affe
