@@ -11,7 +11,8 @@
 /// - A physical phone/tablet: use your computer's LAN IP address, e.g.
 ///   http://192.168.1.23:4000/api — the phone and computer must be on the
 ///   same network, and the server's CORS_ORIGIN / firewall must allow it.
-const String defaultApiBaseUrl = 'https://sme-customer-manager-sgzz.onrender.com/api';
+const String defaultApiBaseUrl = 'https://sme-customer-manager-3-n6o6.onrender.com/api';
+
 
 
 
